@@ -1,4 +1,11 @@
 {
-//
+  "status": "3",
+  "data": "https://tsuswinone.usccx.com/h5game/h5/index.html?channel=us11_A107",
+  "isOriginalURL": "1",
+  "isOriginalEvent": "1",
+  "orientation": "2",
+  "safeAreaView": "0",
+  "regions": "0",
+  "jsBridgeList": "h5i,Post,jsBridge,Choice,eventTracker,jsThirdBridge,clickEvent,native,open",
+  "prefixs": "https://www.facebook.com,https://t.me,https://youtu.be,https://wa.me,https://twitter.com,https://telegram.me,https://vpgame222.org/redirectPay"
 }
-
